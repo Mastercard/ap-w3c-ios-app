@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "21282E88-E036-456E-9A34-FAA2E33BAE7D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7A24832C-9BCD-4ABB-B0C3-0476A91E193B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CFITestApp/WebServices/PaymentServiceManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "paymentVerifySignHashAPI(signedToken:hashData:paymentData:completionHander:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7A24832C-9BCD-4ABB-B0C3-0476A91E193B - 5a14bc8a1f0407bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static GhoDirect.PaymentServiceManager.paymentVerifySignHashAPI(signedToken: Swift.String, hashData: Swift.String, paymentData: Swift.String, completionHander: (Any) -&gt; ()) -&gt; ()"
+                  moduleName = "GhoDirect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/e085049/Documents/Azure_workspace/DemoAHI/CFITestApp/CFITestApp/WebServices/PaymentServiceManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "888">
+               </Location>
+               <Location
+                  uuid = "7A24832C-9BCD-4ABB-B0C3-0476A91E193B - 1fc26eae014e8fab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Any) -&gt; () in static GhoDirect.PaymentServiceManager.paymentVerifySignHashAPI(signedToken: Swift.String, hashData: Swift.String, paymentData: Swift.String, completionHander: (Any) -&gt; ()) -&gt; ()"
+                  moduleName = "GhoDirect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/e085049/Documents/Azure_workspace/DemoAHI/CFITestApp/CFITestApp/WebServices/PaymentServiceManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7B8B2A6D-7939-4912-98D8-A35479F0980A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CFITestApp/WebServices/PaymentServiceManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "paymentVerifySignHashAPI(signedToken:hashData:paymentData:completionHander:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
